@@ -1,5 +1,5 @@
-# 如何设计一个秒杀系统
-
+# 一个秒杀系统的设计
+fork自https://github.com/daydreamdev/seconds-kill
 ## 系统的特点
 
 - 高性能：秒杀涉及大量的并发读和并发写，因此支持高并发访问这点非常关键
